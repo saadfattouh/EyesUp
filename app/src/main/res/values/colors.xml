@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">@color/back_ground_color</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="back_ground_color">#a2c7da</color>
+
+    <color name="button_back_ground_color">#e6e6e6</color>
+
+    <color name="white">#fff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="bottom_nav_item_checked">@android:color/darker_gray</color>
+    <color name="bottom_nav_item_UnChecked">#fff</color>
+
+
+</resources>

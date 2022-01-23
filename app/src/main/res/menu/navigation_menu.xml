@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/cafe_location"
+        android:title="@string/cafes_around"
+        android:icon="@drawable/ic_location_icon"/>
+
+    <item
+        android:id="@+id/options"
+        android:icon="@drawable/ic_three_lines_menu_icon"
+        android:title="@string/options"/>
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/todo_list"
+        android:icon="@drawable/ic_todo"/>
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_profile_icon"
+        android:title="@string/my_account"/>
+    <item
+        android:id="@+id/detection"
+        android:icon="@drawable/ic_face_recognition_icon"
+        android:title="@string/face_detection"/>
+
+
+
+</menu>

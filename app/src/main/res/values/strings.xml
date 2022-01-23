@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">EyesUp</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone number</string>
+    <string name="address">Address</string>
+    <string name="birth_date">Birthdate</string>
+    <string name="verify_your_phone_number">Verify your number</string>
+    <string name="verification_code">Verification code</string>
+    <string name="enter_verification_code">"please enter the verification code sent to you by SMS : "</string>
+    <string name="home">Home</string>
+    <string name="cafes_around">Cafes Around</string>
+    <string name="menu">Menu</string>
+    <string name="options">Options</string>
+    <string name="my_account">My Profile</string>
+    <string name="face_detection">detecting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="google_maps_api_key" translatable="false">AIzaSyBZFiQdwuDD76HivJMnMiGtCFLs5KnssbQ</string>
+
+    <string name="nearby_places_api_key" translatable="false">F1xIYPnQ5rhflcpoorSJLpd3JjT1oKx9</string>
+    <string name="confirmation_dialog">Delete confirmation dialog :</string>
+    <string name="are_you_sure_you_want_to_delete">Are you sure you want to delete this task from list ?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="new_note">New note</string>
+    <string name="add_new_note">Add new note :</string>
+    <string name="details">Details</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_mobile">Phone</string>
+    <string name="profile_personal">Email</string>
+    <string name="logout">Logout</string>
+    <string name="open_maps_confirmation">Open google maps confirmation</string>
+    <string name="show_directions_on_map">do you want to open google maps to show directions to </string>
+    <string name="set_to_allow_calls">allow phone calls :</string>
+    <string name="emergency_calls">Emergency calls :</string>
+    <string name="contact_number">"contact number : "</string>
+    <string name="save">Save</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm_type">Alarm type</string>
+    <string name="text_to_speech">Text to speech</string>
+    <string name="message_to_say">message to make you awake</string>
+    <string name="stop_the_alarm">Stop the alarm</string>
+    <string name="we_are_making_sure_you_awake">we\'re making sure you are awake and ready to continue driving so click on NO button if you want to cancel this sound</string>
+    <string name="todo_list">Todo list</string>
+
+</resources>

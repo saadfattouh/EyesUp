@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/back_ground_color"
+    tools:context=".WelcomeActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="@string/app_name"/>
+
+    <Button
+        android:id="@+id/sign_up_btn"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_centerInParent="true"
+        android:text="@string/sign_up"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+        android:textAllCaps="false"
+        android:textStyle="normal"
+        android:background="@drawable/buttons_bg"/>
+
+    <Button
+        android:id="@+id/log_in_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_below="@id/sign_up_btn"
+        android:layout_alignStart="@id/sign_up_btn"
+        android:layout_alignEnd="@id/sign_up_btn"
+        android:text="@string/login"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+        android:textAllCaps="false"
+        android:background="@drawable/buttons_bg"/>
+
+</RelativeLayout>
